@@ -188,8 +188,8 @@ input,select,textarea{accent-color:var(--accent)}
 .card-actions .pass{width:43px;min-height:44px;flex-shrink:0;border:1px solid #e8e4df;border-radius:12px;background:#fff;color:#b88c73;font-size:17px}
 .card-actions .pass:hover{background:#faf2ed;border-color:#e5cdbb}
 .swipe-stamp{position:absolute;top:80px;z-index:4;border:3px solid;border-radius:8px;padding:9px 13px;font-size:20px;letter-spacing:2px;font-weight:800;pointer-events:none;background:#ffffffd9}
-.pass-stamp{left:24px;transform:rotate(-14deg);color:#bd685f;opacity:var(--pass-opacity)}
-.view-stamp{right:24px;transform:rotate(14deg);color:#438268;opacity:var(--view-opacity)}
+.pass-stamp{right:24px;transform:rotate(14deg);color:#bd685f;opacity:var(--pass-opacity)}
+.view-stamp{left:24px;transform:rotate(-14deg);color:#438268;opacity:var(--view-opacity)}
 .swipe-guide{display:flex;justify-content:space-between;gap:5px;font-size:9px;color:#75857a;margin:10px 0}
 .swipe-guide>span:first-child{color:#a5846e}
 .swipe-guide>span:last-child{color:#6b8c76}

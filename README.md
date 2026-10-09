@@ -12,4 +12,4 @@ Profile and gallery photos use device uploads with previews, removal, and main-p
 
 The development repository is private. This repository contains the static files required to serve the public demo.
 
-Demo source commit: `1eaf788e150b0cf677e49b7702493dfa1fa6a2fa`.
+Demo source commit: `13f5e34c90ef19250f37f7452887aea6923f4fc9`.
