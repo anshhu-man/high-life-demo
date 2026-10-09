@@ -8,4 +8,4 @@ Fictional accounts and all demo changes stay in each visitor's browser. This pro
 
 The development repository is private. This repository contains the static files required to serve the public demo.
 
-Demo source commit: `104e0c7eda917620e3d39bd7827542d785390794`.
+Demo source commit: `c8a5df6844a83971d33b3fd69456d0731155a5cd`.
