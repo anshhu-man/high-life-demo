@@ -8,6 +8,8 @@ Fictional accounts and all demo changes stay in each visitor's browser. This pro
 
 Date options are Social Date, Mini Date and Night out. Mini Date is the two-hour coffee plan; Night out offers four- or eight-hour plans. Existing browser-saved profiles and bookings migrate to the new names. Female profiles include optional measurements, age, languages, tattoos, booking areas, travel readiness, smoking, drinking and availability details.
 
+Profile and gallery photos use device uploads with previews, removal, and main-photo selection. JPG, PNG and WebP images are resized locally and saved only in the current browser.
+
 The development repository is private. This repository contains the static files required to serve the public demo.
 
-Demo source commit: `9020472f63914005511253f21207796ee85708d6`.
+Demo source commit: `1eaf788e150b0cf677e49b7702493dfa1fa6a2fa`.
