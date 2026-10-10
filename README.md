@@ -6,4 +6,4 @@ Fictional Customer, Companion and Admin journeys in a responsive frontend demo. 
 
 The full backend and development source remain in the private High Life repository.
 
-Demo source commit: `9b536ab77a9d312b276c757d0f9cf15a150ff6ee`.
+Demo source commit: `0b3c8d50058bff980777e43d1496aa4bd077a359`.
