@@ -1,15 +1,9 @@
-# High Life public demo
+# High Life public demonstration
 
-The browser demo of High Life, published with GitHub Pages.
+[Open High Life](https://anshhu-man.github.io/high-life-demo/).
 
-[Open the website](https://anshhu-man.github.io/high-life-demo/).
+Fictional Customer, Companion and Admin journeys in a responsive frontend demo. This Pages site uses browser-only storage and simulated OTP, identity verification, payments, refunds and calls. It does not connect to the local application backend or process real IDs or money. Use fictional details only.
 
-Fictional accounts and all demo changes stay in each visitor's browser. This prototype has no backend, real payments, real location tracking, or connected calls.
+The full backend and development source remain in the private High Life repository.
 
-Date options are Social Date, Mini Date and Night out. Mini Date is the two-hour coffee plan; Night out offers four- or eight-hour plans. Existing browser-saved profiles and bookings migrate to the new names. Female profiles include optional measurements, age, languages, tattoos, booking areas, travel readiness, smoking, drinking and availability details.
-
-Profile and gallery photos use device uploads with previews, removal, and main-photo selection. JPG, PNG and WebP images are resized locally and saved only in the current browser.
-
-The development repository is private. This repository contains the static files required to serve the public demo.
-
-Demo source commit: `978076f94fd4d818a253edcf724955ebd4b90ef1`.
+Demo source commit: `9b536ab77a9d312b276c757d0f9cf15a150ff6ee`.
